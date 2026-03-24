@@ -70,7 +70,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": true,
+    "pick-up-day": false,
     "place-night": true
   },
   "discord": {
